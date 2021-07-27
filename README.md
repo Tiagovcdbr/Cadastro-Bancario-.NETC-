@@ -1,5 +1,5 @@
 # Cadastro-Bancario-.NETC-
-Projeto DIO de algoritimo simples de cadastro e transferencia banaria feita em memoria usando .NET e POO..
+Projeto DIO de algoritimo simples de cadastro e transferencia bancaria feita em memoria usando .NET e POO..
 
 ## Projeto DIO que foi desenvolvido com algoritmo simples de cadastro de banco.
 
